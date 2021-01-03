@@ -1,3 +1,4 @@
+# using this code you can send message without using your browser.
 import smtplib
 from email.message import EmailMessage
 

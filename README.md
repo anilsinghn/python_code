@@ -1,1 +1,1 @@
-I post some of my interesting python code here. hope you like them.
+Just paste the code in your python ide or software like pycharm and run it ,if any queries please comment down.
